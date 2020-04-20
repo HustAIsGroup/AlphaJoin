@@ -1,2 +1,2 @@
 # AlphaJoin
-AlphaJoin: Join Order Selection à la AlphaGO
+AlphaJoin: Join Order Selection à la AlphaGo
